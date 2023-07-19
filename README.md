@@ -1,4 +1,4 @@
-# Senthetic-GPS-Data-Generator-
+# Synthetic-GPS-Data-Generator-
 
 
 This script generates a new GPS data point every second. The data is printed to the console, but in the feature case, I would want to send this data to my Kafka topic.
